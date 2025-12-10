@@ -1,4 +1,59 @@
-site_name: My Docs
-site_url: https://mydomain.org/mysite
+site_name: NICE Robotics Documentation
+site_description: Welcome! | NICE Robotics Documentation
+site_url: https://docs.nicerobotics.hk
+
 theme:
   name: material
+  custom_dir: overrides
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.footer
+    - navigation.prune
+    - navigation.top
+    - navigation.path
+    - toc.follow
+    # - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+    - header.autohide
+
+  language: zh
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to Light Mode
+      primary: custom
+      accent: custom
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to Dark Mode
+      primary: custom
+      accent: custom
+
+plugins:
+  - search
+
+extra_css: [stylesheets/extra.css]
+
+extra_javascript:
+  - javascripts/extra.js
