@@ -1,5 +1,5 @@
-site_name: NICE Robotics Documentation
-site_description: Welcome! | NICE Robotics Documentation
+site_name: 产品文档
+site_description: 欢迎来到 NICE Robotics 产品文档
 site_url: https://docs.nicerobotics.hk
 
 theme:
@@ -13,12 +13,13 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+    - navigation.tracking
     - navigation.footer
     - navigation.prune
     - navigation.top
     - navigation.path
+    - navigation.expand
     - toc.follow
-    # - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -30,6 +31,10 @@ theme:
     - header.autohide
 
   language: zh
+
+  logo: assets/logo.png
+
+  favicon: assets/favicon.png
 
   palette:
     # Palette toggle for light mode
@@ -50,8 +55,27 @@ theme:
       primary: custom
       accent: custom
 
+markdown_extensions:
+  - abbr
+  - attr_list
+  - md_in_html
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 plugins:
   - search
+  - optimize
+  - meta
 
 extra_css: [stylesheets/extra.css]
 
