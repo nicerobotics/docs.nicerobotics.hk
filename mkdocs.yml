@@ -1,4 +1,4 @@
-site_name: 产品文档
+site_name: ""
 site_description: 欢迎来到 NICE Robotics 产品文档
 site_url: https://docs.nicerobotics.hk
 
@@ -28,7 +28,6 @@ theme:
     - content.tooltips
     - content.action.edit
     - content.action.view
-    - header.autohide
 
   language: zh
 
