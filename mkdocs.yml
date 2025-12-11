@@ -1,6 +1,10 @@
 site_name: ""
-site_description: 欢迎来到 NICE Robotics 产品文档
+site_description: ""
 site_url: https://docs.nicerobotics.hk
+
+repo_name: nicerobotics/docs
+repo_url: https://github.com/nicerobotics/docs.nicerobotics.hk
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -29,18 +33,19 @@ theme:
     - content.action.edit
     - content.action.view
 
+  font:
+    text: Noto Sans SC
+
   language: zh
 
   logo: assets/logo.png
-
-  favicon: assets/favicon.png
 
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: slate
       toggle:
-        icon: material/weather-night
+        icon: material/lightbulb-outline
         name: Switch to Light Mode
       primary: custom
       accent: custom
@@ -49,10 +54,27 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: default
       toggle:
-        icon: material/weather-sunny
+        icon: material/lightbulb
         name: Switch to Dark Mode
       primary: custom
       accent: custom
+
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: material/information
+      tip: fontawesome/solid/fire
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+
+  favicon: assets/favicon.png
 
 markdown_extensions:
   - abbr
@@ -75,6 +97,7 @@ plugins:
   - search
   - optimize
   - meta
+  - privacy
 
 extra_css: [stylesheets/extra.css]
 

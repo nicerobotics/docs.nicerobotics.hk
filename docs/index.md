@@ -1,149 +1,81 @@
 ---
-title: Mechanism Examples
+title: 欢迎
+hide: 
+    - navigation
 ---
 
-# Mechanism Examples
+# 👋 欢迎！
 
-"Steal from the best, invent the rest" - Mike Corsetto, Head Coach of Team 1678. Don't ever be afraid of taking inspiration from designs of other robots. This page acts as a design reference and learning page for a wide variety of mechanisms.
+欢迎来到 NICE Robotics 官方产品文档，感谢您信任并选择我们的产品，在未来让我们共克困难，一同进步！NICE Robotics 由多名 FRC 校友共同创立于 2025 年，我们的团队成员皆拥有丰富的竞赛经验和工程背景。我们致力于为 FRC 队伍提供基于实战经验、经过验证的可靠零件和完整系统，帮助你的队伍更有信心、更高效地构建机器人。
 
-!!! Note
-
-    A CAD link has been provided when available, but examples without CAD can still be useful to look at with Behind The Bumpers videos and ChiefDelphi threads.
-
-!!! Abstract "Contribution"
-
-    This library of mechanism examples always needs expansion. Follow the [contribution guidelines](../contribution/methodsOfContributing.md "Methods of Contributing Page") to add your own examples or help write Behind the Design pages for existing examples.
-
-## Drivebases
+## 🔥 最近产品
 
 <div class="grid cards" markdown>
 
-- <center markdown>[![](../img/mechanism-examples/drivebase/swerve/2910_2023_dt.webp)](drivebase/swerve/index.md)</center>
+- **圆六角轴**
 
-    ***
+    NICE-04-01-001
 
-    Swerve drivebases, primarily COTS swerve modules
+- **法兰轴承**
 
-    [:octicons-arrow-right-24: Swerve Drivebases](drivebase/swerve/index.md)
+    NICE-04-02-001 ~ NICE-04-02-002
 
-- <center markdown>[![](../img/mechanism-examples/drivebase/tank/2471_2018_dt.webp)]()</center>
+- **铝制齿轮**
 
-    ***
+    NICE-02-01-001 ~ NICE-02-01-010
 
-    Tank drivebases, not commonly found on robots anymore
+- **轻量化铝制齿轮**
 
-    [:octicons-arrow-right-24: Tank Drivebases (Coming Soon)](drivebase/tank/index.md)
+    NICE-02-01-011 ~ NICE-02-01-027
+
+- **Nut Strip**
+
+    NICE-04-07-001
+
+- **Tube Plug**
+
+    NICE-04-08-001 ~ NICE-04-08-004
+
+- **铝制链轮**
+
+    NICE-02-02-001 ~ NICE-02-02-003
+
+- **链条**
+
+    NICE-02-02-004 ~ NICE-02-02-006
+
+- **全链节**
+
+    NICE-02-02-007 ~ NICE-02-02-009
+
+- **链条张紧器**
+
+    NICE-02-02-010 ~ NICE-02-02-011
 
 </div>
 
-## Intakes
+## 🔄 传动 NICE-02
 
 <div class="grid cards" markdown>
 
-- <center markdown>[![](../img/mechanism-examples/intake/slapdown/6423_2024_intake.webp)](intake/slapdown/index.md)</center>
+- **齿轮** NICE-02-01
 
-    ***
+- **链** NICE-02-02
 
-    Over-the-bumper intakes deployed on a single pivot
-
-    [:octicons-arrow-right-24: Pivoting Intakes](intake/slapdown/index.md)
-
-- <center markdown>[![](../img/mechanism-examples/intake/linkage/1678_2022_intake.webp)](intake/linkage/index.md)</center>
-
-    ***
-
-    Over-the-bumper intakes deployed with a linkage, includes four-bar linkages
-
-    [:octicons-arrow-right-24: Linkage Intakes](intake/linkage/index.md)
-
-- <center markdown>[![](../img/mechanism-examples/intake/utb/3005_2024_intake.webp)]()</center>
-
-    ***
-
-    Intakes that acquire game pieces underneath the bumpers
-
-    [:octicons-arrow-right-24: Under-the-bumper Intakes (Coming Soon)](intake/utb/index.md)
+- **皮带** NICE-02-03
 
 </div>
 
-## Game Piece Manipulation
+## 🔩 硬件 NICE-04
 
 <div class="grid cards" markdown>
 
-- <center markdown>[![](../img/mechanism-examples/shooter/1678_2022_shooter.webp)](shooter/index.md)</center>
+- **轴** NICE-04-01
 
-    ***
+- **轴承** NICE-04-02
 
-    Mechanisms designed to shoot game pieces
+- **Nut Strips** NICE-04-07
 
-    [:octicons-arrow-right-24: Shooters](shooter/index.md)
-
-- <center markdown>[![](../img/mechanism-examples/end-effector/3005_2023_ee.webp)]()</center>
-
-    ***
-
-    Unique mechanisms for game piece scoring, sometimes combined with intaking
-
-    [:octicons-arrow-right-24: End Effectors (Coming Soon)](end-effector/index.md)
-
-- <center markdown>[![](../img/mechanism-examples/indexer/2910_2024_indexer.webp)]()</center>
-
-    ---
-
-    Mechanisms for transporting game pieces from one part of a robot to another
-
-    [:octicons-arrow-right-24: Indexers (Coming Soon)](indexer/index.md)
-
-  </div>
-
-## Linear Extensions
-
-<div class="grid cards" markdown>
--   <center markdown>[![](../img/mechanism-examples/elevator/continuous/1678_2023_elevator.webp)](elevator/continuous/index.md)</center>
-
-    ---
-
-    Elevators with continuous rigging
-
-    [:octicons-arrow-right-24: Continuous Elevators](elevator/continuous/index.md)
-
-- <center markdown>[![](../img/mechanism-examples/elevator/cascade/wcp_greyt_elevator.webp)](elevator/cascade/index.md)</center>
-
-    ***
-
-    Elevators with cascade rigging
-
-    [:octicons-arrow-right-24: Cascade Elevators](elevator/cascade/index.md)
-
-- <center markdown>[![](../img/mechanism-examples/telescope/2910_2023_telescope.webp)](telescope/index.md)</center>
-
-    ***
-
-    Telescoping extension mechanisms
-
-    [:octicons-arrow-right-24: Telescoping Extensions (Coming Soon)](telescope/index.md)
+- **Tube Plugs** NICE-04-08
 
 </div>
-
-## Rotating Mechanisms
-
-<div class="grid cards" markdown>
--   <center>[![](../img/mechanism-examples/pivots/2910/2910_2023_pivot.webp)](pivots/index.md)</center>
-
-    ---
-
-    Mechanisms designed to rotate other mechanisms vertically
-
-    [:octicons-arrow-right-24: Pivots](pivots/index.md)
-
-- <center>[![](../img/mechanism-examples/turret/6036_2024_turret.webp)]()</center>
-
-    ***
-
-    Mechanisms designed to rotate other mechanisms horizontally
-
-    [:octicons-arrow-right-24: Turrets (Coming Soon)](turret/index.md)
-
-</div>
-
-<br>
