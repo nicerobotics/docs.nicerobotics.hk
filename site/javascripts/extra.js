@@ -30,7 +30,6 @@ function showSlides(n, no) {
 
 //This runs when a page loads.
 document$.subscribe(function () {
-
     slideIndecies = [];
     slideshows = document.getElementsByClassName("slideshow-container");
 
