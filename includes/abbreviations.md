@@ -1,107 +1,25 @@
-*[COTS]: Commercial Off the Shelf parts are anything you can buy from a vendor.
+*[COTS]: Commercial Off-The-Shelf - 现货零件
 
-*[C-C]: "Center to Center" distance
+*[C-C]: Center to Center - 中心到中心的距离
 
-*[turnbuckle]: A threaded part that goes in between chain links to tension the chain
+*[COG]: Center of Gravity - 重心
 
-*[COG]: Center of Gravity, also referred to as COM(Center of Mass)
+*[PWM]: Pulse Width Modulation - 脉宽调制
 
-*[4Bar]: A type of linkage characterized by its 4 pivot points
+*[RIO]: RoboRIO - 机器人主控制器
 
-*[Deadaxle]: A type of axle setup where the axle is fixed in place and or is not transferring the torque of the system through it.
+*[DP]: Diametral Pitch - 径节
 
-*[Deadaxles]: A type of axle setup where the axle is fixed in place and or is not transferring the torque of the system through it.
+*[PD]: Pitch Diameter - 节圆直径
 
-*[deadaxle]: A type of axle setup where the axle is fixed in place and or is not transferring the torque of the system through it.
+*[OD]: Outer Diameter - 齿顶圆直径
 
-*[Liveaxle]: A type of axle setup where the main torque transfer is through the axle.
+*[3DP]: 3D Printing - 3D打印
 
-*[liveaxle]: A type of axle setup where the main torque transfer is through the axle.
+*[PDH]: Power Distribution Hub - 电源分配集线器
 
-*[Zombie-Axle]: Typically used on pivots a zombie axle spins with the mechanism, but is transferring little to no torque through it. This is commonly used to put an encoder on the pivot point.
+*[PC]: Polycarbonate - 聚碳酸酯
 
-*[Tube-Nut]: Also known as a "Star Nut", these provide an easy way to put a thread in end of a hollow tube allowing you to bolt the tube to another part. 
+*[backlash]: 回程间隙, 传动系统中的"松动量", 可以前后晃动而不带动整个系统。
 
-*[tube-Nut]: Also known as a "Star Nut", these provide an easy way to put a thread in end of a hollow tube allowing you to bolt the tube to another part. 
-
-*[Cantilever]: Horizontal Element that's supported by one side only.
-
-*[cantilever]: Horizontal Element that's supported by one side only.
-
-*[Shear]: When forces are applied parallel to the plane of a material, causing breaking of fasteners due to excessive force and stress.
-
-*[shear]: When forces are applied parallel to the plane of a material, causing breaking of fasteners due to excessive force and stress.
-
-*[Torque]: Force that produces rotational movement.
-
-*[torque]: Force that produces rotational movement.
-
-*[PDH]: Power Distribution Hub.
-
-*[SparkMAX]: Motor controller for REV motors.
-
-*[PWM]: Pulse Width Modulation cable.
-
-*[RIO]: RoboRIO, brain of the robot.
-
-*[Blinkn]: LED controller for REV.
-
-*[Radio]: Device that helps the robot communicate with the driver station.
-
-*[radio]: Device that helps the robot communicate with the driver station.
-
-*[3DP]: Abbreviation for 3D printed or 3D printing.
-
-*[Gusset]: Reinforcement plate, usually made of aluminum, used to strengthen connections between two tubes.
-
-*[gusset]: Reinforcement plate, usually made of aluminum, used to strengthen connections between two tubes.
-
-*[poly]: Abbreviation for polycarbonate.
-
-*[Poly]: Abbreviation for polycarbonate.
-
-*[pc]: Abbreviation for polycarbonate.
-
-*[PC]: Abbreviation for polycarbonate.
-
-*[Stripping]: Process of removing threads or bolt heads, often due to excessive force or wear.
-
-*[stripping]: Process of removing threads or bolt heads, often due to excessive force or wear.
-
-*[Tapping]: The process of creating threads in a hole using a tap tool.
-
-*[tapping]: The process of creating threads in a hole using a tap tool.
-
-*[Billet]: Component machined down from a solid block of material.
-
-*[billet]: Component machined down from a solid block of material.
-
-*[Brainpan]: Flipped electronics bellypan.
-
-*[brainpan]: Flipped electronics bellypan.
-
-*[bellypan]:  Plate for mounting electronics on the underside of your drivebase.
-
-*[Bellypan]:  Plate for mounting electronics on the underside of your drivebase.
-
-*[hardstop]: A physical limit designed to prevent a mechanism or component from moving beyond a certain point.
-
-*[softstop]:  A software-based limit or control mechanism that restricts the movement of a mechanism or component to prevent it from exceeding certain parameters.
-
-*[Hardstop]: A physical limit designed to prevent a mechanism or component from moving beyond a certain point.
-
-*[Softstop]:  A software-based limit or control mechanism that restricts the movement of a mechanism or component to prevent it from exceeding certain parameters.
-
-*[DP]: Diametral pitch is the number of teeth per inch of the pitch circle.
-
-*[packaging]:  The way in which you fit parts of your robot together in a space
-
-*[Packaging]:  The way in which you fit parts of your robot together in a space
-
-*[backlash]:  'Slop' in a power transmission system; can wiggle back and forth without engaging the whole system
-
-*[Backlash]:  'Slop' in a power transmission system; can wiggle back and forth without engaging the whole system
-
-*[parametric]:  Designed in a way that uses relationships between steps to maintain design intent
-
-*[Parametric]:  Designed in a way that uses relationships between steps to maintain design intent
+*[Backlash]: 回程间隙, 传动系统中的"松动量", 可以前后晃动而不带动整个系统。
