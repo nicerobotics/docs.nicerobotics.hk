@@ -1,20 +1,4 @@
-*[WCP]: West Coast Products
-
-*[REV]: REV Robotics
-
-*[TTB]: The Thrifty Bot
-
-*[Redux]: Redux Robotics
-
-*[OTB]: "Over the Bumper" typically used to refer to a style of intake where you lift the piece over the bumper
-
-*[UTB]: "Under the Bumper" typically used to refer to a style of intake where you move the piece under the bumper
-
 *[COTS]: Commercial Off the Shelf parts are anything you can buy from a vendor.
-
-*[V4B]: "Virtual 4 Bar" is where a second degree of freedom is directly geared of a previous degree of freedom instead of being moved independently or by a linkage.
-
-*[MCM]: Mcmaster Carr
 
 *[C-C]: "Center to Center" distance
 
