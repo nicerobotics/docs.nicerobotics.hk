@@ -7,7 +7,7 @@ title: 轴承&轴
 ## 圆六角轴承
 
 <div align="center">
-  <img src="/assets/bearing_shaft/bearing.png" />
+  <img src="/assets/bearing_shaft/nice_bearing.png" />
 </div>
 
 圆六角轴承是专门为圆六角轴设计的轴承，轴承和轴需要完美配合才能顺畅转动。
@@ -31,7 +31,7 @@ title: 轴承&轴
 ## 圆六角轴
 
 <div align="center">
-  <img src="/assets/bearing_shaft/nice.png" />
+  <img src="/assets/bearing_shaft/nice_shaft.png" />
 </div>
 
 轴是传动系统的"骨架"，负责把动力从一个地方传递到另一个地方。NICE 圆六角轴在传统六角轴的基础上做了几个重要改进：

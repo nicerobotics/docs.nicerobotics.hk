@@ -75,6 +75,9 @@ title: 链轮&链条
 
 !!! example "方法3：使用张紧器"
     当前面两种方法都无法达到合适松紧度时使用。
+    <div align="center">
+      <img src="/assets/sprocket_chain/tensioner_usage.png" />
+    </div>
 
 **惰轮 (用于封闭式链传动)：**
 
@@ -97,7 +100,7 @@ title: 链轮&链条
 ## NICE 链轮
 
 <div align="center">
-  <img src="/assets/sprocket_chain/nice.png" />
+  <img src="/assets/sprocket_chain/nice_sprocket.png" />
 </div>
 
 **特点：**
@@ -120,6 +123,10 @@ title: 链轮&链条
 | 15T  |      |         |      |      |         |
 
 ## 链条
+
+<div align="center">
+  <img src="/assets/sprocket_chain/nice_chain.png" />
+</div>
 
 **特点：**
 
