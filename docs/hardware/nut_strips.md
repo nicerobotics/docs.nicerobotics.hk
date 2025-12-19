@@ -5,7 +5,7 @@ title: 螺母条
 # 螺母条
 
 <div align="center">
-  <img src="/assets/nut_strips/nice.png" />
+  <img src="/assets/nut_strips/nice.png" width="350" />
 </div>
 
 螺母条是一种细长条状的铝合金固定件，沿着长度方向分布有连续的螺纹孔。它的作用很简单：为你的结构提供多个可用的固定点。
@@ -21,7 +21,7 @@ title: 螺母条
 ## 如何使用
 
 <div align="center">
-  <img src="/assets/nut_strips/board_and_tube.png" />
+  <img src="/assets/nut_strips/board_and_tube.png" width="500" />
 </div>
 
 安装非常简单：
@@ -42,8 +42,6 @@ title: 螺母条
 - 6061-T6 铝合金，黑色硬质阳极氧化处理
 - M5螺纹孔，12.5mm孔距，可以与NICE铝方管配合使用
 - 每根长度200mm，可以根据需求自由裁剪
-
-**清单：**
 
 | 名称   | SKU  | 长度 (mm) | 重量 (g) | 工图 | CAD  | Onshape |
 | ------ | ---- | -------- | ------- | ---- | ---- | ------- |

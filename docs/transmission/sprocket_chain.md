@@ -5,7 +5,7 @@ title: 链轮&链条
 # 链轮&链条
 
 <div align="center">
-  <img src="/assets/sprocket_chain/parameter.png" />
+  <img src="/assets/sprocket_chain/parameter.png" width="400" />
 </div>
 
 ## 参数说明
@@ -55,7 +55,7 @@ title: 链轮&链条
 - 效率最高
 
 <div align="center">
-  <img src="/assets/sprocket_chain/tension.png" />
+  <img src="/assets/sprocket_chain/tension.png" width="400" />
 </div>
 
 ### 张紧方法
@@ -76,13 +76,13 @@ title: 链轮&链条
 !!! example "方法3：使用张紧器"
     当前面两种方法都无法达到合适松紧度时使用。
     <div align="center">
-      <img src="/assets/sprocket_chain/tensioner_usage.png" />
+      <img src="/assets/sprocket_chain/tensioner_usage.png" width="400" />
     </div>
 
 **惰轮 (用于封闭式链传动)：**
 
 <div align="center">
-  <img src="/assets/sprocket_chain/idle_gear.png" />
+  <img src="/assets/sprocket_chain/idle_gear.png" width="500" />
 </div>
 
 - 就是在链条路径中加一个额外的小链轮
@@ -100,7 +100,7 @@ title: 链轮&链条
 ## NICE 链轮
 
 <div align="center">
-  <img src="/assets/sprocket_chain/nice_sprocket.png" />
+  <img src="/assets/sprocket_chain/nice_sprocket.png" width="400" />
 </div>
 
 **特点：**
@@ -125,7 +125,7 @@ title: 链轮&链条
 ## 链条
 
 <div align="center">
-  <img src="/assets/sprocket_chain/nice_chain.png" />
+  <img src="/assets/sprocket_chain/nice_chain.png" width="400" />
 </div>
 
 **特点：**
@@ -133,12 +133,12 @@ title: 链轮&链条
 - 规格：#25 / #25H / #35
 - 长度：10ft (约3米)
 - 材质：高强度链条钢
-- 配件：每条链条包含一个Master Link (快拆链节)
+- 配件：每条链条包含一个Master Link (全链节)
 
 ## 链条张紧器
 
 <div align="center">
-  <img src="/assets/sprocket_chain/tensioner.png" />
+  <img src="/assets/sprocket_chain/tensioner.png" width="400" />
 </div>
 
 链条张紧器可以通过旋转中间旋钮来拉紧或放松链条。
@@ -146,7 +146,6 @@ title: 链轮&链条
 **特点：**
 
 - 规格：#25 / #35
-- 材质：7075-T6铝合金，黑色阳极氧化处理
 - 旋钮：适配M6螺栓，连接更牢固
 
 ### 使用方法

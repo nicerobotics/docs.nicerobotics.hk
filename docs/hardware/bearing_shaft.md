@@ -7,7 +7,7 @@ title: 轴承&轴
 ## 圆六角轴承
 
 <div align="center">
-  <img src="/assets/bearing_shaft/nice_bearing.png" />
+  <img src="/assets/bearing_shaft/nice_bearing.png" width="300" />
 </div>
 
 圆六角轴承是专门为圆六角轴设计的轴承，轴承和轴需要完美配合才能顺畅转动。
@@ -21,8 +21,6 @@ title: 轴承&轴
 !!! tip "适用场景"
     所有FRC常见的传动结构，如驱动底盘、机械臂、升降机构等。
 
-### 清单
-
 |        产品        | SKU  | 外径 (mm) | 内径 (mm) | 重量 (g) | 工图 | CAD  | Onshape |
 | :----------------: | :--: | :------: | :------: | :-----: | :--: | :--: | :-----: |
 | 1/2"圆六角法兰轴承 |      |  28.575  |  13.75   |         |      |      |         |
@@ -31,7 +29,7 @@ title: 轴承&轴
 ## 圆六角轴
 
 <div align="center">
-  <img src="/assets/bearing_shaft/nice_shaft.png" />
+  <img src="/assets/bearing_shaft/nice_shaft.png" width="300" />
 </div>
 
 轴是传动系统的"骨架"，负责把动力从一个地方传递到另一个地方。NICE 圆六角轴在传统六角轴的基础上做了几个重要改进：
@@ -46,8 +44,6 @@ title: 轴承&轴
 !!! tip "为什么选择中空设计？"
     - **减重** - 比实心轴轻很多，对机器人性能提升明显
     - **方便加工** - 可以直接在轴上攻丝，安装零件更简单
-
-### 清单
 
 |     产品     | SKU  | 外径 (mm) | 内径 (mm) | 长度 (mm) | 重量 (g) | 工图 | CAD  | Onshape |
 | :----------: | :--: | :------: | :------: | :-------: | :-----: | :--: | :--: | :-----: |

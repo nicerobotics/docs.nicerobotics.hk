@@ -5,7 +5,7 @@ title: 齿轮
 # 齿轮
 
 <div align="center">
-  <img src="/assets/gear/parameter.png" />
+  <img src="/assets/gear/parameter.png" width="500" />
 </div>
 
 齿轮是机械传动中最基础的零件，它能把一个轴的旋转传递到另一个轴上。更重要的是，通过搭配不同大小的齿轮，你可以调节转速和扭矩：
@@ -41,7 +41,7 @@ title: 齿轮
 - 输出扭矩提升到原来的 3倍
 
 <div align="center">
-  <img src="/assets/gear/reduction_ratio.png" />
+  <img src="/assets/gear/reduction_ratio.png" width="400" />
 </div>
 
 ### 加速比 - 提高转速，减少扭矩
@@ -57,7 +57,7 @@ title: 齿轮
 - 输出扭矩降低到原来的 1/2
 
 <div align="center">
-  <img src="/assets/gear/accel_ratio.png" />
+  <img src="/assets/gear/accel_ratio.png" width="400" />
 </div>
 
 ## 旋转方向
@@ -68,7 +68,7 @@ title: 齿轮
 - **三个齿轮：** 输入和输出方向相同
 
 <div align="center">
-  <img src="/assets/gear/direction.png"/>
+  <img src="/assets/gear/direction.png" width="400" />
 </div>
 
 ## 什么时候使用齿轮传动
@@ -126,7 +126,7 @@ $$
 ### 1/2" 六角孔铝制齿轮
 
 <div align="center">
-  <img src="/assets/gear/20dp.png"/>
+  <img src="/assets/gear/20dp.png" width="400" />
 </div>
 **特点：**
 
@@ -134,8 +134,6 @@ $$
 - 7075-T6 铝合金材质，黑色硬质阳极氧化处理
 - 强度高，耐磨损
 - 齿宽 9.5mm
-
-**清单：**
 
 | 齿数 | SKU  | 重量 (g) | 工图 | CAD  | Onshape |
 | :--: | :--: | :-----: | :--: | :--: | :-----: |
@@ -153,7 +151,7 @@ $$
 ### 1/2" 六角孔铝制镂空齿轮
 
 <div align="center">
-  <img src="/assets/gear/20dp_pocketed.png"/>
+  <img src="/assets/gear/20dp_pocketed.png" width="400" />
 </div>
 对于40齿以上的大齿轮，我们提供镂空减重版本，在保证强度的同时减轻重量。
 
@@ -164,8 +162,6 @@ $$
 - 齿宽 9.5mm
 - 镂空减重设计，最薄处腹板厚度 2.5mm
 - 重量减轻但强度依然可靠
-
-**清单：**
 
 | 齿数 | SKU  | 重量 (g) | 工图 | CAD  | Onshape |
 | :--: | :--: | :-----: | :--: | :--: | :-----: |

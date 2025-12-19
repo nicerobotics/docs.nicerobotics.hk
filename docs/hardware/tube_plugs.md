@@ -5,7 +5,7 @@ title: 方管塞
 # 方管塞
 
 <div align="center">
-  <img src="/assets/tube_plugs/usage.png" />
+  <img src="/assets/tube_plugs/usage.png" width="500" />
 </div>
 
 方管塞是一种安装在方形铝管内部的小零件，它能让你轻松连接两根铝管，或者把铝管固定到板材上。
@@ -24,7 +24,7 @@ title: 方管塞
 ### 场景1：连接两根铝管
 
 <div align="center">
-  <img src="/assets/tube_plugs/tube_and_tube.png" />
+  <img src="/assets/tube_plugs/tube_and_tube.png" width="400" />
 </div>
 
 方管塞可以在不用任何板材的情况下直接连接两根铝管。
@@ -46,7 +46,7 @@ title: 方管塞
 ### 场景2：把铝管固定到板材上
 
 <div align="center">
-  <img src="/assets/tube_plugs/board_and_tube.png" />
+  <img src="/assets/tube_plugs/board_and_tube.png" width="400" />
 </div>
 
 方管塞也可以将铝管与板材连接起来。
@@ -64,7 +64,7 @@ title: 方管塞
 ### 2525方管塞 (用于25mm×25mm方管)
 
 <div align="center">
-  <img src="/assets/tube_plugs/2525.png" />
+  <img src="/assets/tube_plugs/2525.png" width="300" />
 </div>
 
 |         名称          | SKU  | 重量 (g) | 工图 | CAD  | Onshape |
@@ -74,7 +74,7 @@ title: 方管塞
 ### 2550方管塞 (用于25mm×50mm方管)
 
 <div align="center">
-  <img src="/assets/tube_plugs/2550.png" />
+  <img src="/assets/tube_plugs/2550.png" width="300" />
 </div>
 
 |          名称           | SKU  | 重量 (g) | 工图 | CAD  | Onshape |
@@ -86,7 +86,7 @@ title: 方管塞
 ### 5050方管塞 (用于50mm×50mm方管)
 
 <div align="center">
-  <img src="/assets/tube_plugs/5050.png" />
+  <img src="/assets/tube_plugs/5050.png" width="300" />
 </div>
 
 |         名称          | SKU  | 重量 (g) | 工图 | CAD  | Onshape |
