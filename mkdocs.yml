@@ -3,6 +3,7 @@ site_url: https://docs.nicerobotics.hk
 repo_url: https://github.com/nicerobotics/docs.nicerobotics.hk
 repo_name: nicerobotics/docs
 edit_uri: edit/main/docs/
+copyright: "Copyright &copy; 2025 NICE Robotics Limited. All rights reserved."
 
 theme:
   name: material
@@ -38,7 +39,6 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.tracking
-    - navigation.footer
     - navigation.prune
     - navigation.top
     - navigation.path
@@ -117,11 +117,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/nicerobotics
 
 extra_css:
   - stylesheets/extra.css
