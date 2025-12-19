@@ -1,4 +1,5 @@
 {
+  "assets/bearing_shaft/nice.png": "5dba7a1b6ee4642a0d322438c1c0c67777b3f4f9",
   "assets/favicon.png": "6caced9e861c589901c6cbc54d5ba0139f9bde27",
   "assets/gear/20dp.png": "6a4c8983e5fe590ede354a40a87d5fbe70803da3",
   "assets/gear/20dp_pocketed.png": "20e2f2b706d935bf46c42c5ed376d8d4b7f3aecd",
@@ -29,6 +30,11 @@
   "assets/sprocket/parameter.png": "35d4a3ad9b59c459a43aacc7ddf11ab99ac323f3",
   "assets/sprocket/tension.png": "d92655e8d958fce35046bdd5cfbc350ac17ac374",
   "assets/sprocket/tensioner.png": "c5d4406aa7faa84a253e9c9656c3b3ca683b97d6",
+  "assets/sprocket_chain/idle_gear.png": "fbc07c0c64d792bb505d32be0d89b2601828f63b",
+  "assets/sprocket_chain/nice.png": "25507dcb9d42e3f55ff62031d4796c85c6efd94c",
+  "assets/sprocket_chain/parameter.png": "35d4a3ad9b59c459a43aacc7ddf11ab99ac323f3",
+  "assets/sprocket_chain/tension.png": "d92655e8d958fce35046bdd5cfbc350ac17ac374",
+  "assets/sprocket_chain/tensioner.png": "c5d4406aa7faa84a253e9c9656c3b3ca683b97d6",
   "assets/tube_plug/1.png": "0a406a6dbb5b04dadefb81ea93aa87a05c3ecdcf",
   "assets/tube_plug/2.png": "f6c03b5a13b93e746f7bd7f8aa55ca5d1e702d26",
   "assets/tube_plug/3.png": "80736f40e454c1958bf26064440d556d25e59d1a",

@@ -72,6 +72,8 @@ plugins:
   - social:
       cards_layout_options:
         font_family: Noto Sans SC
+  - optimize
+  - privacy
 
 markdown_extensions:
   - abbr
