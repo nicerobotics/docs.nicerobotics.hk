@@ -15,24 +15,44 @@ NICE Robotics 由多名 FRC 校友创立于 2025 年，我们的团队成员拥�
 
 <div class="grid cards" markdown>
 
-- **齿轮**
+- <center markdown>[![](assets/gear.png)](transmission/gear.md)</center>
 
-    NICE-02-01
+    ***
 
-- **链轮&链条**
+    **齿轮 — NICE-02-01**
 
-    NICE-02-02
+    [:octicons-arrow-right-24: 查看详情](transmission/gear.md)
 
-- **轴承&轴**
+- <center markdown>[![](assets/sprocket_chain.png)](transmission/sprocket_chain.md)</center>
 
-    NICE-04-01 & 02
+    ***
 
-- **方管塞**
+    **链轮&链条 — NICE-02-02**
 
-    NICE-04-08
+    [:octicons-arrow-right-24: 查看详情](transmission/sprocket_chain.md)
 
-- **螺母条**
+- <center markdown>[![](assets/bearing_shaft.png)](hardware/bearing_shaft.md)</center>
 
-    NICE-04-07
+    ***
+
+    **轴承&轴 — NICE-04-01 & 02**
+
+    [:octicons-arrow-right-24: 查看详情](hardware/bearing_shaft.md)
+
+- <center markdown>[![](assets/tube_plugs.png)](hardware/tube_plugs.md)</center>
+
+    ***
+
+    **方管塞 — NICE-04-08**
+
+    [:octicons-arrow-right-24: 查看详情](hardware/tube_plugs.md)
+
+- <center markdown>[![](assets/nut_strips.png)](hardware/nut_strips.md)</center>
+
+    ***
+
+    **螺母条 — NICE-04-07**
+
+    [:octicons-arrow-right-24: 查看详情](hardware/nut_strips.md)
 
 </div>
