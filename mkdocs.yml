@@ -53,7 +53,6 @@ theme:
     - content.action.edit
     - content.action.view
 
-# 导航栏配置 - 中文显示，英文URL
 nav:
   - 首页: index.md
   - 传动:
